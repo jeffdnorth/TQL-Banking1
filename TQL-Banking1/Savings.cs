@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace TQL_Banking1
-{
+{//using inheritence, Child : Parent
     class Savings : Account
     { 
         //addl properties
